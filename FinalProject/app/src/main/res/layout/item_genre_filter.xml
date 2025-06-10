@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="@drawable/genre_filter_background"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvGenreName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Genre"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="6dp" />
+</LinearLayout>
