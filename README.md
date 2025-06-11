@@ -26,7 +26,6 @@ FinalProject adalah aplikasi Android yang memungkinkan pengguna untuk mencari fi
 
 - **Bahasa:** Java
 - **Android Architecture:** Fragment + RecyclerView
-- **Database Lokal:** SQLite + DAO Pattern
 - **Network:** Retrofit2 + Gson Converter
 - **Design:** Material Components + Theme Switch
 - **Persistence:** SharedPreferences
